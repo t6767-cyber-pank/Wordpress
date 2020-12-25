@@ -1,0 +1,836 @@
+# Translation of Plugins - Best Quiz Plugin for WordPress: WP Quiz - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Best Quiz Plugin for WordPress: WP Quiz - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-27 19:24:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Best Quiz Plugin for WordPress: WP Quiz - Stable (latest release)\n"
+
+#: inc/class-admin.php:68
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/class-admin.php:67
+msgid "Get Support for WP Quiz"
+msgstr "Получите поддержку для WP Quiz"
+
+#: inc/class-page-support.php:18
+msgid "Technical Support"
+msgstr "Техническая поддержка"
+
+#. Translators: %s expands to "our Support Forums" link
+#: inc/class-page-support.php:138
+msgid "We offer technical support through our %s. Please <strong>copy and paste the following information in your ticket</strong> when contacting support:"
+msgstr "Мы предоставляем техническую поддержку через наш %s. Пожалуйста, <strong>скопируйте и вставьте следующую информацию в свой тикет</strong> при обращении в поддержку:"
+
+#: inc/class-page-support.php:138
+msgid "Support Ticket System"
+msgstr "Система тикетов поддержки"
+
+#: inc/class-page-support.php:142
+msgid "Gathering information. Please wait . . ."
+msgstr "Собирается информация. Пожалуйста, подождите..."
+
+#: inc/class-page-support.php:160
+msgid "Copy Data for Support Request"
+msgstr "Скопировать данные для обращения в поддержку"
+
+#: inc/class-page-support.php:165
+msgid "Open Support Forum"
+msgstr "Открыть форум поддержки"
+
+#: inc/class-page-support.php:220
+msgid "Environment"
+msgstr "Окружение"
+
+#: inc/class-page-support.php:228
+msgid "Plugins"
+msgstr "Плагины"
+
+#: inc/class-page-support.php:232
+msgid "Theme"
+msgstr "Тема"
+
+#: inc/class-page-support.php:365
+msgid "None"
+msgstr "Нет"
+
+#: inc/class-page-support.php:224
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/class-admin.php:161
+msgid "Show right/wrong answers at the end of quiz"
+msgstr "Показать правильные/неправильные ответы в конце викторины"
+
+#: inc/class-admin.php:160
+msgid "Auto scroll to next question"
+msgstr "Автоскролл к следующему вопросу"
+
+#: inc/class-admin.php:144
+msgctxt "input label"
+msgid "Result Points"
+msgstr "Итоговые очки"
+
+#: inc/class-admin.php:125
+msgctxt "input label"
+msgid "Answer Title"
+msgstr "Заголовок ответа"
+
+#: inc/class-admin.php:124
+msgctxt "input label"
+msgid "Result Title"
+msgstr "Заголовок результата"
+
+#: inc/class-admin.php:123
+msgctxt "input label"
+msgid "Question Title"
+msgstr "Заголовок вопроса"
+
+#: inc/class-admin.php:111
+msgid "Question"
+msgstr "Вопрос"
+
+#: inc/class-admin.php:184
+msgid "Result title font"
+msgstr "Шрифт заголовка результата"
+
+#: inc/class-admin.php:183
+msgid "Result title font size"
+msgstr "Размер шрифта заголовка результата"
+
+#: inc/class-admin.php:182
+msgid "Result title color"
+msgstr "Цвет заголовка результата"
+
+#: inc/class-admin.php:181
+msgid "Question background color"
+msgstr "Цвет заднего фона вопроса"
+
+#: inc/class-admin.php:180
+msgid "Question font color"
+msgstr "Цвет шрифта вопроса"
+
+#: inc/class-admin.php:159
+msgid "(applies to multiple page layout)"
+msgstr "(используется при отображении вопросов на нескольких страницах)"
+
+#: inc/class-admin.php:132
+msgctxt "input label"
+msgid "Votes Down"
+msgstr "Голосов \"За\""
+
+#: inc/class-admin.php:131
+msgctxt "input label"
+msgid "Votes Up"
+msgstr "Голосов \"Против\""
+
+#: inc/class-admin.php:162
+msgid "(applies to single page layout)"
+msgstr "(используется при отображении на одной странице)"
+
+#: inc/class-admin.php:185
+msgid "Select Profile"
+msgstr "Выбрать профиль"
+
+#: inc/class-admin.php:186
+msgid "User Profile Image"
+msgstr "Изображение профиля пользователя"
+
+#: inc/class-admin.php:187
+msgid "Friend Profile Image"
+msgstr "Изображение профиля друга"
+
+#: inc/class-admin.php:203
+msgid "Preview/Position"
+msgstr "Предпросмотр/Расположение"
+
+#: inc/class-admin.php:204
+msgid "Preview Image and set profile position"
+msgstr "Предпросмотр изображения и задание расположения профиля"
+
+#: inc/class-admin.php:205
+msgid "image border radius"
+msgstr "скругление углов изображения"
+
+#: inc/class-admin.php:213
+msgid "Possible name substiution (%%userfirstname%% = user first name, %%userlastname%% = user last name, %%friendfirstname%% = friend first name, %%friendlastname%% = friend last name)"
+msgstr "Допустимые замены имени (%%userfirstname%% = имя пользователя, %%lastfirstname%% = фамилия пользователя, %%friendfirstname%% = имя друга, %%friendfirstname%% = фамилия друга)"
+
+#: inc/class-admin.php:214
+msgid "Friend profile image will only work if the current quiz player/user has Facebook friends that has also authorized your app id to read their friends list."
+msgstr "Изображение профиля друга будет работать только если у текущего участника/пользователя есть друзья в Facebook, которые также авторизовали ваш app id для чтения их списка друзей."
+
+#: wp-quiz.php:76 wp-quiz.php:83
+msgid "Cheatin&#8217; huh?"
+msgstr "Жульничаем&#8217; значит?"
+
+#: inc/class-admin.php:171
+msgid "comma separated codes"
+msgstr "коды, разделенные запятыми"
+
+#: inc/class-admin.php:169
+msgid "Repeat Ads"
+msgstr "Повторять рекламу"
+
+#: inc/class-admin.php:107
+msgid "Content"
+msgstr "Содержание"
+
+#: inc/class-admin.php:108
+msgid "Styling"
+msgstr "Стили"
+
+#: inc/class-admin.php:109
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/class-admin.php:202
+msgid "Preview Video/Media"
+msgstr "Предпросмотр Виде/Медиа"
+
+#: inc/class-admin.php:201
+msgid "Preview Image"
+msgstr "Предпросмотр изображения"
+
+#: inc/class-admin.php:200
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: inc/class-admin.php:199
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/class-admin.php:198
+msgid "Upload"
+msgstr "Загрузить"
+
+#: inc/class-wp-quiz.php:208
+msgid "I got %%score%% out of %%total%%, and you?"
+msgstr "Я получил %%score%% из %%total%%, а ты?"
+
+#: inc/class-wp-quiz.php:207
+msgid "You got %%score%% out of %%total%%"
+msgstr "Ты получил  %%score%% из %%total%%"
+
+#: inc/class-wp-quiz.php:205
+msgid "Correct !"
+msgstr "Верно!"
+
+#: inc/class-wp-quiz.php:206
+msgid "Wrong !"
+msgstr "Неверно!"
+
+#: inc/class-page-config.php:291
+msgid " Pro feature"
+msgstr "Pro возможности"
+
+#: inc/class-page-config.php:247
+msgid "Learn how to create Facebook App ID <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Узнай как создать Facebook App ID <a href=\"%s\" target=\"_blank\">здесь</a>."
+
+#. Author URI of the plugin/theme
+msgid "https://mythemeshop.com/"
+msgstr "https://mythemeshop.com/"
+
+#. Author of the plugin/theme
+msgid "MyThemeShop"
+msgstr "MyThemeShop"
+
+#: wp-quiz.php:349
+msgid "Please deactivate WP Quiz Pro plugin"
+msgstr "Пожалуйста деактивируйте WP Quiz Pro плагин"
+
+#: inc/class-admin.php:437
+msgid "Date"
+msgstr "Дата"
+
+#: inc/class-admin.php:436
+msgid "Quiz type"
+msgstr "Тип викторины"
+
+#: inc/class-admin.php:233
+msgctxt "new quiz title placeholder"
+msgid "Quiz Title"
+msgstr "Название Викторины"
+
+#: inc/class-admin.php:197
+msgid "Answers"
+msgstr "Ответы"
+
+#: inc/class-admin.php:194
+msgid "Height:"
+msgstr "Высота"
+
+#: inc/class-admin.php:193
+msgid "Width:"
+msgstr "Ширина"
+
+#: inc/class-admin.php:192
+msgid "Custom Size"
+msgstr "Регулирумый размер"
+
+#: inc/class-flip-quiz.php:55
+msgid "Click to Flip"
+msgstr "Нажмите, чтобы перевернуть"
+
+#: inc/class-page-config.php:65
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: inc/class-admin.php:148 inc/class-page-config.php:124
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: inc/class-admin.php:44 inc/class-admin.php:45 inc/class-admin.php:151
+#: inc/class-page-config.php:104
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/class-page-config.php:91
+msgid "Global"
+msgstr "Глобальные"
+
+#: inc/class-admin.php:157 inc/class-page-config.php:227
+msgid "Share buttons"
+msgstr "Кнопки \"Поделиться\""
+
+#: inc/class-page-import-export.php:151
+msgid "Import Demo"
+msgstr "Импорт демо данных"
+
+#: inc/class-page-import-export.php:136
+msgid "Export"
+msgstr "Экспорт"
+
+#: inc/class-page-import-export.php:135
+msgid "Import"
+msgstr "Импорт"
+
+#: inc/class-admin.php:56 inc/class-admin.php:57
+#: inc/class-page-import-export.php:94
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+#: inc/class-page-config.php:328
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: inc/class-wp-quiz.php:184
+msgid "PLAY AGAIN !"
+msgstr "СЫГРАТЬ ЕЩЕ РАЗ !"
+
+#: inc/class-personality-quiz.php:132 inc/class-trivia-quiz.php:133
+msgid "Continue &gt;&gt;"
+msgstr "Продолжить &gt;&gt;"
+
+#: inc/class-page-import-export.php:160
+msgid "Import File"
+msgstr "Импорт файла"
+
+#: inc/class-admin.php:115
+msgid "Add Result"
+msgstr "Добавить результат"
+
+#: inc/class-admin.php:114
+msgid "Results"
+msgstr "Результаты"
+
+#: inc/class-admin.php:113
+msgid "Edit Question"
+msgstr "Изменить вопрос"
+
+#: inc/class-admin.php:112
+msgid "Add Question"
+msgstr "Добавить вопрос"
+
+#: inc/class-admin.php:110
+msgid "Questions"
+msgstr "Вопросы"
+
+#: inc/class-admin.php:274
+msgid "Flip Cards"
+msgstr "Карточки"
+
+#: inc/class-admin.php:272
+msgid "Trivia"
+msgstr "Правильно/Неправильно"
+
+#: wp-quiz.php:222
+msgid "WP Quiz not found in Trash."
+msgstr "WP Quiz не найдены в Корзине."
+
+#: inc/class-admin.php:135
+msgctxt "input label"
+msgid "Youtube/Vimeo/Custom URL"
+msgstr "Youtube/Vimeo/Другой URL"
+
+#: inc/class-admin.php:134
+msgctxt "input label"
+msgid "Media Type"
+msgstr "Тип медиа"
+
+#: inc/class-admin.php:133
+msgctxt "input label"
+msgid "Image Credit"
+msgstr "Данные изображения"
+
+#: inc/class-admin.php:129
+msgctxt "input label"
+msgid "Back Image"
+msgstr "Изображение на обороте"
+
+#: inc/class-admin.php:130
+msgctxt "input label"
+msgid "Back Image Description"
+msgstr "Описание изображения на обороте"
+
+#: inc/class-admin.php:128
+msgctxt "input label"
+msgid "Front Image"
+msgstr "Лицевое изображение"
+
+#: inc/class-admin.php:127
+msgctxt "input label"
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/class-admin.php:126
+msgctxt "input label"
+msgid "Explanation"
+msgstr "Объяснение"
+
+#: inc/class-admin.php:122
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/class-admin.php:121
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/class-admin.php:120
+msgid "Edit Explanation"
+msgstr "Изменить объяснение"
+
+#: inc/class-admin.php:119
+msgid "Add Explanation"
+msgstr "Добавить объяснение"
+
+#: inc/class-admin.php:118
+msgid "Edit Answer"
+msgstr "Изменить ответ"
+
+#: inc/class-admin.php:117
+msgid "Add Answer"
+msgstr "Добавить ответ"
+
+#: inc/class-admin.php:116
+msgid "Edit Result"
+msgstr "Изменить результат"
+
+#: inc/class-admin.php:150
+msgid "No Media"
+msgstr "Без медиа"
+
+#: inc/class-admin.php:149
+msgid "Video/Custom Embed"
+msgstr "Видео/Пользовательская вставка"
+
+#: inc/class-admin.php:147
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/class-admin.php:145
+msgid "(Association: 0-no, 1-normal, 2-strong)"
+msgstr "(Ассоциация: 0-нет, 1-обычная, 2-сильная)"
+
+#: inc/class-admin.php:146
+msgctxt "input label"
+msgid "Long Description"
+msgstr "Длинное описание"
+
+#: inc/class-admin.php:143
+msgctxt "input label"
+msgid "Short Description"
+msgstr "Короткое описание"
+
+#: inc/class-admin.php:142
+msgctxt "input label"
+msgid "Description"
+msgstr "Описание"
+
+#: inc/class-admin.php:141
+msgctxt "input label"
+msgid "Maximum Score"
+msgstr "Максимум очков"
+
+#: inc/class-admin.php:140
+msgctxt "input label"
+msgid "Minimum Score"
+msgstr "Минимум очков"
+
+#: inc/class-admin.php:139
+msgctxt "input label"
+msgid "Maximum Correct"
+msgstr "Максимум верных ответов"
+
+#: inc/class-admin.php:138
+msgctxt "input label"
+msgid "Minimum Correct"
+msgstr "Минимум верных ответов"
+
+#: inc/class-admin.php:137
+msgctxt "input label"
+msgid "Is Correct Answer"
+msgstr "Верный ответ?"
+
+#: inc/class-admin.php:136
+msgctxt "input label"
+msgid "Image Placeholder"
+msgstr "Изображение видео"
+
+#: inc/class-admin.php:176
+msgid "Choose skin"
+msgstr "Выбрать оформление"
+
+#: inc/class-admin.php:175
+msgid "Mutiple pages"
+msgstr "Несколько страниц"
+
+#: inc/class-admin.php:174
+msgid "Show all"
+msgstr "Отобразить все"
+
+#: inc/class-admin.php:173
+msgid "Questions layout"
+msgstr "Отображение вопросов"
+
+#: inc/class-admin.php:172
+msgid "Customize Layout and Colors"
+msgstr "Изменить отображение и цвета"
+
+#: inc/class-admin.php:492 inc/class-admin.php:499
+msgid "Cheating, huh?"
+msgstr "Жульничаем, значит?"
+
+#: inc/class-admin.php:434
+msgid "Quiz Name"
+msgstr "Название викторины"
+
+#: inc/class-admin.php:106
+msgid "Select Quiz Type"
+msgstr "Выберите тип викторины"
+
+#: inc/class-admin.php:255
+msgctxt "metabox title"
+msgid "Quiz"
+msgstr "Викторина"
+
+#: wp-quiz.php:228
+msgid "Holds the quizzes and their data."
+msgstr "Содержит викторины и их данные"
+
+#: inc/class-page-config.php:89
+msgid "Default Quiz Settings"
+msgstr "Настройки викторины по-умолчанию"
+
+#: inc/class-page-import-export.php:155
+msgid "Import Quiz File"
+msgstr "Импорт файла викторины"
+
+#: inc/class-page-import-export.php:81
+msgid "Import and Export Quizzes"
+msgstr "Импорт и экспорт викторин"
+
+#: inc/class-page-import-export.php:34
+msgid "Failed to import Quiz"
+msgstr "Не удалось импортировать викторину"
+
+#: inc/class-page-import-export.php:32
+msgid "Quiz imported successfully"
+msgstr "Викторина импортирована удачно"
+
+#: wp-quiz.php:223
+msgid "Parent Quiz"
+msgstr "Родительская викторина"
+
+#: wp-quiz.php:221
+msgid "No Quizzes Found."
+msgstr "Викторины не найдены."
+
+#: wp-quiz.php:220
+msgid "Edit Quiz"
+msgstr "Изменить викторину"
+
+#: wp-quiz.php:219
+msgid "View Quiz"
+msgstr "Просмотр викторины"
+
+#: wp-quiz.php:218
+msgid "New Quiz"
+msgstr "Новая викторина"
+
+#: wp-quiz.php:217
+msgid "Add New WP Quiz"
+msgstr "Добавить новую викторину"
+
+#: wp-quiz.php:216
+msgctxt "quiz"
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: wp-quiz.php:215
+msgid "Search Quizzes"
+msgstr "Поиск в викторинах"
+
+#: wp-quiz.php:214
+msgid "All Quizzes"
+msgstr "Все викторины"
+
+#. Description of the plugin/theme
+msgid "WP Quiz makes it incredibly easy to add professional, multimedia quizzes to any website! Fully feature rich and optimized for social sharing. Make your site more interactive!"
+msgstr "С WP Quiz невероятно просто добавить профессиональные, мультимедиа викторины на любой сайт! Богатый функционал и оптимизация для соц сетей. Сделайте ваш сайт более интерактивным!"
+
+#: inc/class-admin.php:435
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/class-admin.php:244
+msgid "Shortcode:"
+msgstr "Шорткод:"
+
+#: inc/class-admin.php:179
+msgid "Progress bar color"
+msgstr "Цвет шкалы прогресса"
+
+#: inc/class-admin.php:168
+msgid "Ads after every nth question"
+msgstr "Реклама после каждого n-го вопроса"
+
+#: inc/class-admin.php:163
+msgid "Force action to see results"
+msgstr "Обязательное действие, чтобы увидеть результаты"
+
+#: inc/class-wp-quiz.php:171
+msgid "WordPress Quiz Plugin"
+msgstr "WordPress плагин викторин"
+
+#: inc/class-page-config.php:239
+msgid "Enable or disable Open Graph and Twitter Cards meta tags in single quiz head tag."
+msgstr "Добавить или удалить Open Graph и Twitter Cards метатэги в тэге head одиночной викторины"
+
+#: inc/class-admin.php:166 inc/class-page-config.php:302
+msgid "Facebook Share"
+msgstr "Поделиться в Facebook"
+
+#: inc/class-admin.php:165 inc/class-page-config.php:301
+msgid "Capture Email"
+msgstr "Оставить e-mail"
+
+#: inc/class-admin.php:164 inc/class-page-config.php:300
+msgid "No Action"
+msgstr "Нет"
+
+#: inc/class-page-config.php:297
+msgid "Force action to see the results"
+msgstr "Обязательное действие, чтобы увидеть результаты"
+
+#: inc/class-page-config.php:291
+msgid "Works only on trivia quiz type when multiple page layout is selected"
+msgstr "Работает только в викторинах правильно/неправильно при отображении на нескольких страницах"
+
+#: inc/class-admin.php:158 inc/class-page-config.php:291
+msgid "Countdown timer [Seconds/question]"
+msgstr "Обратный отсчет [секунды/вопрос]"
+
+#: inc/class-page-config.php:285
+msgid "Show Ads after every nth question"
+msgstr "Показывать рекламу после каждого n-го вопроса"
+
+#: inc/class-admin.php:167 inc/class-page-config.php:277
+msgid "Show Ads"
+msgstr "Показывать рекламу"
+
+#: inc/class-admin.php:153 inc/class-page-config.php:261
+msgid "Randomize Answers"
+msgstr "Ответы в случайном порядке"
+
+#: inc/class-admin.php:152 inc/class-page-config.php:253
+msgid "Randomize Questions"
+msgstr "Вопросы в случайном порядке"
+
+#: inc/class-page-config.php:219
+msgid "Auto scroll to next question (applies to one page layout)"
+msgstr "Автоскролл к следующему вопросу (используется при отображении на одной странице)"
+
+#: inc/class-admin.php:155 inc/class-page-config.php:202
+msgid "Promote the plugin"
+msgstr "Продвигать плагин"
+
+#: inc/class-admin.php:154 inc/class-page-config.php:194
+msgid "Restart Questions"
+msgstr "Начать заново"
+
+#: inc/class-page-config.php:173
+msgid "Profile Name"
+msgstr "Имя профиля"
+
+#: inc/class-admin.php:207 inc/class-page-config.php:173
+#: inc/class-page-config.php:176 inc/class-page-config.php:253
+#: inc/class-page-config.php:261 inc/class-page-config.php:269
+#: inc/class-page-config.php:277 inc/class-page-config.php:285
+#: inc/class-page-config.php:297 inc/class-page-config.php:328
+#: inc/class-page-config.php:342
+msgid "Pro feature"
+msgstr "Pro опция"
+
+#: inc/class-page-import-export.php:165
+msgid "To use this feature please upgrade to pro version."
+msgstr "Чтобы воспользоваться этой опцией, пожалуйста, обновитесь до Pro версии."
+
+#: inc/class-page-config.php:342
+msgid "Enable or disable players tracking."
+msgstr "Включить или выключить отслеживание участников."
+
+#: inc/class-admin.php:189
+msgid "Animation Out"
+msgstr "Анимация исчезания"
+
+#: inc/class-admin.php:188
+msgid "Animation In"
+msgstr "Анимация появления"
+
+#: inc/class-admin.php:190
+msgid "Quiz Size"
+msgstr "Размер викторины"
+
+#: inc/class-admin.php:191
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: inc/class-admin.php:196
+msgid "Full Width (responsive)"
+msgstr "Во всю ширину (адаптивный)"
+
+#: inc/class-admin.php:195
+msgid "set width and height in px"
+msgstr "задать ширину и высоту в пикселях"
+
+#: inc/class-admin.php:208 inc/class-admin.php:209
+msgid "Buy WP Quiz Pro"
+msgstr "Купить WP Quiz Pro"
+
+#: inc/class-admin.php:210
+msgid "Like WP Quiz Plugin? You will LOVE WP Quiz Pro!"
+msgstr "Нравится плагин WP Quiz? Вы ПОЛЮБИТЕ WP Quiz Pro!"
+
+#: wp-quiz.php:343
+msgid "WP Quiz requires PHP version 5.4.0 with spl extension or greater and WordPress 3.4 or greater."
+msgstr "Для работы WP Quiz требуются PHP с spl расширением версии не ниже 5.4.0 и WordPress версии не ниже 3.4."
+
+#: inc/class-admin.php:211
+msgid "New Quiz type Swiper, Show Ads in the quizzes, Countdown Timer, Open graph integration, Player tracking, Force users to Subscribe to see the results and much more."
+msgstr "Новый тип викторин \"Swiper\", Показ рекламы в викторинах, Обратный отсчет, Интеграция Open graph, Отслеживание участника, Требовать пользователей подписаться, чтобы увидеть результаты и многое другое."
+
+#: inc/class-admin.php:170
+msgid "Ad Codes"
+msgstr "Коды рекламы"
+
+#: inc/class-page-config.php:210
+msgid "this link"
+msgstr "этой ссылке"
+
+#: inc/class-page-config.php:90
+msgid "Ad Code"
+msgstr "Код рекламы"
+
+#: inc/class-admin.php:273
+msgid "Personality"
+msgstr "Особенности характера"
+
+#: inc/class-admin.php:212
+msgid "Please add the Results and save the draft before adding questions"
+msgstr "Пожалуйста, прежде, чем добавлять Вопросы, добавьте Результаты и сохраните черновик "
+
+#: inc/class-admin.php:307 inc/class-page-config.php:234
+#: inc/class-wp-quiz.php:151
+msgid "VK"
+msgstr "ВК"
+
+#: inc/class-flip-quiz.php:75 inc/class-wp-quiz.php:139
+msgid "Share your Results :"
+msgstr "Поделись своими результатами:"
+
+#: inc/class-page-config.php:210
+msgid " and get your referral ID (username) if you don't have it already!"
+msgstr " и получите ваш партнерский ID, если его ещё нет!"
+
+#: inc/class-page-config.php:210
+msgid "Check your affiliate earning by following "
+msgstr "Проверьте свой партнерский доход "
+
+#: inc/class-admin.php:304 inc/class-page-config.php:231
+#: inc/class-wp-quiz.php:142
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/class-admin.php:306 inc/class-page-config.php:233
+msgid "Google +"
+msgstr "Google +"
+
+#: inc/class-page-config.php:88
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: inc/class-wp-quiz.php:148
+msgid "Google+"
+msgstr "Google+"
+
+#. Plugin URI of the plugin/theme
+msgid "https://mythemeshop.com/plugins/wp-quiz/"
+msgstr "https://mythemeshop.com/plugins/wp-quiz/"
+
+#: inc/class-admin.php:178
+msgid "Modern Flat Skin"
+msgstr "Современный стиль"
+
+#: inc/class-page-config.php:213
+msgid "MyThemeShop username"
+msgstr "Имя пользователя MyThemeShop"
+
+#: inc/class-wp-quiz.php:171
+msgid "Powered by "
+msgstr "Под управлением "
+
+#: inc/class-admin.php:156 inc/class-page-config.php:269
+msgid "Show embed code toggle"
+msgstr "Показать встроенный код"
+
+#: inc/class-page-config.php:210
+msgid "Signup"
+msgstr "Регистрация"
+
+#: inc/class-page-config.php:176
+msgid "Tracking ID"
+msgstr "Tracking ID"
+
+#: inc/class-admin.php:177
+msgid "Traditional Skin"
+msgstr "Традиционный стиль"
+
+#: inc/class-admin.php:305 inc/class-page-config.php:232
+#: inc/class-wp-quiz.php:145
+msgid "Twitter"
+msgstr "Twitter"
+
+#. #-#-#-#-#  wp-quiz-code.pot (WP Quiz 1.1.9)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/class-page-support.php:236 wp-quiz.php:210 wp-quiz.php:211
+#: wp-quiz.php:212
+msgid "WP Quiz"
+msgstr "WP Quiz"
