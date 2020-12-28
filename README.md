@@ -1,2 +1,2 @@
-# Wordpress Projects
-Projects with standart theme and standart plugins 
+# Theme customization
+Custom themes to wordpress.
